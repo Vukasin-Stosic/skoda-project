@@ -1,0 +1,47 @@
+.vesti-wrapper {
+  background-color: white;
+  margin: 30px 0;
+}
+.vesti-singl {
+  padding: 40px 50px 0 50px;
+}
+.vesti-singl h3 {
+  font-size: 28px;
+  padding-bottom: 20px;
+}
+.vesti-singl a {
+  text-decoration: none;
+  color: black;
+}
+.vesti {
+  border-bottom: 1px solid lightgray;
+  padding: 0 30px 30px 0;
+}
+#vesti-last {
+  border: none;
+}
+.flex {
+  display: flex;
+  color: gray;
+  font-weight: lighter;
+}
+.date {
+  border-right: 1px solid lightgray;
+  padding-right: 10px;
+  margin-right: 10px;
+}
+.vise {
+  margin-left: auto;
+  color: black;
+  font-size: 12px;
+  font-weight: bold;
+  width: 50px;
+}
+.vise .arrow {
+  border-color: black;
+  border-width: 0 2px 2px 0;
+  vertical-align: middle;
+}
+.vise:hover .vise-span {
+  padding-right: 5px;
+}

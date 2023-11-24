@@ -1,0 +1,13 @@
+.lager-wrapper {
+  background-color: white;
+  margin: 30px 0;
+  text-align: center;
+  padding: 30px;
+}
+#lager-btn {
+  margin-top: 30px;
+  background-color: white;
+}
+#lager-btn:hover {
+  background-color: rgb(239, 239, 239);
+}

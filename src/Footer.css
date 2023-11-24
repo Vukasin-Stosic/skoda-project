@@ -1,0 +1,151 @@
+#footer {
+  background-color: #0e3a2f;
+  color: white;
+  padding: 0 60px;
+  font-size: 13px;
+}
+#footer a {
+  text-decoration: none;
+  color: white;
+}
+.kontakt {
+  height: 114px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid white;
+}
+.kontakt img {
+  width: 22px;
+  margin-right: 12px;
+}
+.email {
+  font-weight: bold;
+  margin-right: 30px;
+}
+.email p {
+  font-size: 12px;
+  font-weight: lighter;
+  padding-bottom: 10px;
+}
+.email img {
+  vertical-align: middle;
+}
+.email span {
+  font-weight: bold;
+}
+.kontakt-formular,
+.drustvene-mreze {
+  padding-top: 24.4px;
+}
+.kontakt-formular img {
+  vertical-align: middle;
+}
+.drustvene-mreze {
+  margin-left: auto;
+}
+.linkovi {
+  display: flex;
+  border-bottom: 1px solid white;
+  height: 56px;
+  align-items: center;
+  justify-content: space-between;
+}
+.linkovi-left {
+  display: flex;
+}
+.linkovi-left > * {
+  padding-right: 20px;
+  font-size: 10px;
+}
+.linkovi-left > h6 {
+  font-weight: bolder;
+  font-size: 10px;
+}
+.aplikacija {
+  display: flex;
+}
+.aplikacija img {
+  width: 100px;
+  margin-left: 10px;
+}
+.pregled {
+  height: 345px;
+  display: flex;
+  margin-top: 35px;
+}
+.pregled-column {
+  padding: 0 15px;
+  width: 238px;
+}
+.pregled-column:first-of-type {
+  padding-left: 0;
+}
+#emobilnost {
+  margin-top: 40px;
+}
+.pregled h6 {
+  font-weight: bold;
+  font-size: 12px;
+  padding-bottom: 9px;
+}
+.pregled li {
+  list-style: none;
+  padding-bottom: 9px;
+}
+.footer-bottom {
+  background-color: #00271d;
+  margin: 0 -60px;
+  padding: 0 60px;
+}
+.footer-b-top {
+  padding: 19.4px 0 39.4px 0;
+}
+.footer-b-top > * {
+  display: inline-block;
+}
+.footer-b-top > h4 {
+  margin-right: 10px;
+  font-size: 12px;
+}
+.footer-b-top .arrow {
+  rotate: 90deg;
+  vertical-align: text-top;
+}
+#rotate {
+  rotate: -90deg;
+  vertical-align: sub;
+}
+.footer-b-middle {
+  margin: 20px 0 26px 0;
+  font-size: 12px;
+  font-weight: 100;
+  line-height: 16px;
+}
+
+.footer-b-bottom {
+  height: 64px;
+  padding-top: 17px;
+  display: flex;
+}
+.copyright {
+  display: flex;
+}
+.copyright > * {
+  margin-right: 20px;
+  font-size: 10px;
+}
+.lang {
+  margin-left: auto;
+  display: flex;
+  height: fit-content;
+}
+.lang p {
+  padding: 0 10px;
+  font-weight: bold;
+}
+.lang p:first-of-type {
+  border-right: 1px solid white;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 8px;
+}

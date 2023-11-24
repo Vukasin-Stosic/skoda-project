@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <path d="M53.0027 1.17818e-06C53.0009 0.114944 53 0.230102 53 0.345469C53 8.25055 57.1951 15.1758 63.4804 19.0165C61.8855 22.6358 61 26.638 61 30.8471C61 47.0659 74.1479 60.2138 90.3667 60.2138C94.9638 60.2138 99.3142 59.1574 103.188 57.2743C106.872 63.6468 113.678 67.9878 121.516 68.2052C117.719 98.2475 92.0727 121.48 61 121.48C27.3106 121.48 0 94.1698 0 60.4805C0 29.5018 23.0925 3.91669 53.0027 -2.17527e-07L53.0027 1.17818e-06Z" transform="translate(3 3)" id="Oval-Difference" fill="none" fill-rule="evenodd" stroke="#419468" stroke-width="6" />
+  <path d="M0 5C0 2.23858 2.23858 0 5 0C7.76142 0 10 2.23858 10 5C10 7.76142 7.76142 10 5 10C2.23858 10 0 7.76142 0 5Z" transform="translate(32 39.48047)" id="Oval" fill="#419468" stroke="#419468" stroke-width="5" stroke-linejoin="round" />
+  <path d="M0 1.5C0 0.671573 0.671573 0 1.5 0C2.32843 0 3 0.671573 3 1.5C3 2.32843 2.32843 3 1.5 3C0.671573 3 0 2.32843 0 1.5Z" transform="translate(85 9.480469)" id="Oval-4" fill="#419468" stroke="#419468" stroke-width="5" stroke-linejoin="round" />
+  <path d="M0 1.5C0 0.671573 0.671573 0 1.5 0C2.32843 0 3 0.671573 3 1.5C3 2.32843 2.32843 3 1.5 3C0.671573 3 0 2.32843 0 1.5Z" transform="translate(92.5 31.98047)" id="Oval-5" fill="#419468" stroke="#419468" stroke-width="5" stroke-linejoin="round" />
+  <path d="M0 1.5C0 0.671573 0.671573 0 1.5 0C2.32843 0 3 0.671573 3 1.5C3 2.32843 2.32843 3 1.5 3C0.671573 3 0 2.32843 0 1.5Z" transform="translate(115 39.48047)" id="Oval-6" fill="#419468" stroke="#419468" stroke-width="5" stroke-linejoin="round" />
+  <path d="M0 5C0 2.23858 2.23858 0 5 0C7.76142 0 10 2.23858 10 5C10 7.76142 7.76142 10 5 10C2.23858 10 0 7.76142 0 5Z" transform="translate(77 85.48047)" id="Oval-2" fill="#419468" stroke="#419468" stroke-width="5" stroke-linejoin="round" />
+  <path d="M0 5C0 2.23858 2.23858 0 5 0C7.76142 0 10 2.23858 10 5C10 7.76142 7.76142 10 5 10C2.23858 10 0 7.76142 0 5Z" transform="translate(40 77.48048)" id="Oval-3" fill="#419468" stroke="#419468" stroke-width="5" stroke-linejoin="round" />
+</svg>
